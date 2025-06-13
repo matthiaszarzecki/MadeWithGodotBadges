@@ -6,30 +6,30 @@ Bagdes displaying *Made With Godot* which you can include in your `README.md` on
 
 ### Default (Flat)
 
-[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF.svg?style=flat&logo=Godot)](https://godotengine.org/)
+[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF.svg?style=flat&logo=godot-engine)](https://godotengine.org/)
 ```
-[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF.svg?style=flat&logo=Godot)](https://godotengine.org/)
+[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF.svg?style=flat&logo=godot-engine)](https://godotengine.org/)
 ```
 
 ### Plastic
 
-[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF.svg?style=plastic&logo=Godot)](https://godotengine.org/)
+[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF.svg?style=plastic&logo=godot-engine)](https://godotengine.org/)
 ```
-[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF.svg?style=plastic&logo=Godot)](https://godotengine.org/)
+[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF.svg?style=plastic&logo=godot-engine)](https://godotengine.org/)
 ```
 
 ### Flat Square
 
-[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF.svg?style=flat-square&logo=Godot)](https://godotengine.org/)
+[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF.svg?style=flat-square&logo=godot-engine)](https://godotengine.org/)
 ```
-[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF.svg?style=flat-square&logo=Godot)](https://godotengine.org/)
+[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF.svg?style=flat-square&logo=godot-engine)](https://godotengine.org/)
 ```
 
 ### For The Badge
 
-[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF.svg?style=for-the-badge&logo=Godot)](https://godotengine.org/)
+[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/)
 ```
-[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF.svg?style=for-the-badge&logo=Godot)](https://godotengine.org/)
+[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/)
 ```
 
 # More Badges
