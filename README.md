@@ -33,8 +33,8 @@ Bagdes displaying *Made With Godot* which you can include in your `README.md` on
 ```
 
 # More Badges
-Made with Game Maker Studio Badges: https://github.com/matthiaszarzecki/MadeWithGameMakerStudioBadges
-Made with Unity Badges: https://github.com/matthiaszarzecki/MadeWithUnityBadges
+- Made with Game Maker Studio Badges: https://github.com/matthiaszarzecki/MadeWithGameMakerStudioBadges
+- Made with Unity Badges: https://github.com/matthiaszarzecki/MadeWithUnityBadges
 
 # Sources
 - [shields.io](https://shields.io)
